@@ -237,10 +237,10 @@ document.write(
                     <div class="col-auto">
                         <div class="header-social">
                             <span class="social-title">Follow Us On : </span>
-                            <a href="https://www.facebook.com/"><i class="fab fa-facebook-f"></i></a>
+                            <a href="https://www.facebook.com/profile.php?id=61575191136391"><i class="fab fa-facebook-f"></i></a>
                             <a href="https://www.twitter.com/"><i class="fab fa-twitter"></i></a>
                             <a href="https://www.linkedin.com/"><i class="fab fa-linkedin-in"></i></a>
-                            <a href="https://www.instagram.com/"><i class="fab fa-instagram"></i></a>
+                            <a href="https://www.instagram.com/tripstar.ig?igsh=MTc4eGFyenFhZ3d2NA=="><i class="fab fa-instagram"></i></a>
                             <a href="https://www.youtube.com/"><i class="fab fa-youtube"></i></a>
                         </div>
                     </div>
