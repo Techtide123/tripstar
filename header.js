@@ -1,5 +1,5 @@
 document.write(
-    `
+  `
     <!--********************************
    		Code Start From Here 
 	******************************** -->
@@ -15,21 +15,7 @@ document.write(
         <button class="th-btn th-radius preloaderCls">Cancel Preloader </button>
         <div id="loader" class="th-preloader">
             <div class="animation-preloader">
-                <div class="txt-loading">
-                    <span preloader-text="W" class="characters">W</span>
-
-                    <span preloader-text="E" class="characters">E</span>
-
-                    <span preloader-text="B" class="characters">B</span>
-
-                    <span preloader-text="T" class="characters">T</span>
-
-                    <span preloader-text="E" class="characters">E</span>
-
-                    <span preloader-text="C" class="characters">C</span>
-
-                    <span preloader-text="K" class="characters">K</span>
-                </div>
+                http://127.0.0.1:5501/faq.html
             </div>
         </div>
     </div> <!--==============================
@@ -235,25 +221,26 @@ document.write(
 	Header Area
 ==============================-->
     <header class="th-header header-layout2 onepage-nav">
-        <div class="header-top">
+        <div class="">
             <div class="container">
                 <div class="row justify-content-center justify-content-lg-between align-items-center gy-2">
                     <div class="col-auto d-none d-lg-block">
                         <div class="header-links">
-                            <ul>
-                                <li><i class="fas fa-map-location"></i>54 NJ-12, Flemington, United States</li>
-                                <li><i class="fas fa-phone"></i><a href="tel:+1539873657">+153-987-3657</a></li>
-                                <li><i class="fas fa-envelope"></i><a href="mailto:info@webteck.com">info@webteck.com</a></li>
+                             <ul>
+                                <li><i class="fas fa-map-location"></i>Bhubaneswar , Odisha, India</li>
+                                <li><i class="fas fa-phone"></i><a href="tel:+918144836533">+91 8144836533</a></li>
+                                <li><i class="fas fa-envelope"></i><a
+                                        href="mailto:tripstar.in1@gmail.com">tripstar.in1@gmail.com</a></li>
                             </ul>
                         </div>
                     </div>
                     <div class="col-auto">
                         <div class="header-social">
                             <span class="social-title">Follow Us On : </span>
-                            <a href="https://www.facebook.com/"><i class="fab fa-facebook-f"></i></a>
+                            <a href="https://www.facebook.com/profile.php?id=61575191136391"><i class="fab fa-facebook-f"></i></a>
                             <a href="https://www.twitter.com/"><i class="fab fa-twitter"></i></a>
                             <a href="https://www.linkedin.com/"><i class="fab fa-linkedin-in"></i></a>
-                            <a href="https://www.instagram.com/"><i class="fab fa-instagram"></i></a>
+                            <a href="https://www.instagram.com/tripstar.ig?igsh=MTc4eGFyenFhZ3d2NA=="><i class="fab fa-instagram"></i></a>
                             <a href="https://www.youtube.com/"><i class="fab fa-youtube"></i></a>
                         </div>
                     </div>
@@ -267,7 +254,7 @@ document.write(
                     <div class="row align-items-center justify-content-between">
                         <div class="col-auto">
                             <div class="header-logo">
-                                <a class="icon-masking" href="index.html"><span data-mask-src="assets/img/logo.svg" class="mask-icon"></span><img src="assets/img/logo.svgs" alt="Webteck"></a>
+                                <a class="icon-masking" href="index.html"><span data-mask-src="assets/img/logo.svg" class="mask-icon"></span><img src="assets/img/logo.svg" alt="Webteck"></a>
                             </div>
                         </div>
                         <div class="col-auto">
@@ -374,4 +361,5 @@ document.write(
     </header><!--==============================
 Hero Area
 ==============================-->
-    `)
+    `
+);
